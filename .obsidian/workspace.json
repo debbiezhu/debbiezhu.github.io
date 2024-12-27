@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-12-23.md",
+                "file": "2024-12-26.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-12-23"
+              "title": "2024-12-26"
             }
           }
         ]
@@ -164,9 +164,11 @@
   },
   "active": "8963311d440fb092",
   "lastOpenFiles": [
+    "2024-12-23.md",
+    "2024-12-26.md",
+    "2024-12-24.md",
     "template.md",
     "templates/diary.md",
-    "templates",
-    "2024-12-23.md"
+    "templates"
   ]
 }
