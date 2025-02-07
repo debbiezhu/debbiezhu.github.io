@@ -33,12 +33,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025-02-06.md",
+                "file": "2025-02-07.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-02-06"
+              "title": "2025-02-07"
             }
           }
         ]
@@ -60,7 +60,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -184,8 +185,9 @@
   },
   "active": "d396b3222a39a83d",
   "lastOpenFiles": [
-    "2025-02-05.md",
     "2025-02-06.md",
+    "2025-02-07.md",
+    "2025-02-05.md",
     "喜欢衬衫的男士都应该认识的两个品牌，很是值得购买！.md",
     "如何用最少的钱，买最好的皮带？哪种皮带最耐用？看这里！.md",
     "1000元和10000元的鞋子有哪些区别？关于男鞋，您应该懂的内容。.md",
@@ -209,7 +211,6 @@
     "2025-01-07.md",
     "2025-01-09.md",
     "2025-01-08.md",
-    "2024-12-29.md",
     "templates"
   ]
 }
