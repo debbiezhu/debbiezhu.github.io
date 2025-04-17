@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025-04-14.md",
+                "file": "2025-04-15.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-04-14"
+              "title": "2025-04-15"
+            }
+          },
+          {
+            "id": "6a495295cadc81fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2025-04-17.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-04-17"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "be1eb69419df9135",
@@ -210,10 +225,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9ff0f8633f82352d",
+  "active": "6a495295cadc81fb",
   "lastOpenFiles": [
-    "2025-04-11.md",
+    "2025-04-16.md",
+    "2025-04-17.md",
+    "Untitled.md",
+    "2025-04-15.md",
     "2025-04-14.md",
+    "2025-04-11.md",
     "2025-04-10.md",
     "2025-04-09.md",
     "2025-04-08.md",
@@ -234,10 +253,6 @@
     "2025-03-18.md",
     "2025-03-17.md",
     "2025-03-14.md",
-    "2025-03-13.md",
-    "Lululemon女裤，如何选最适合，如何买最实惠，平台最强攻略！.md",
-    "calendar/2025-02-05.md",
-    "2025-03-12.md",
     "Pasted image 20250306104824.png",
     "Pasted image 20250306103607.png",
     "suit",
