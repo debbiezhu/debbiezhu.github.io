@@ -13,15 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025-06-13.md",
+                "file": "2025-06-17.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-06-13"
+              "title": "2025-06-17"
+            }
+          },
+          {
+            "id": "78e0ea9e1a1594c3",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -163,34 +174,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d396b3222a39a83d",
+  "active": "78e0ea9e1a1594c3",
   "lastOpenFiles": [
+    "2025-06-27.md",
+    "calendar/2025-06-27.md",
+    "calendar/2025-06-26.md",
+    "calendar/2025-06-25.md",
+    "calendar/2025-06-24.md",
+    "calendar/2025-06-23.md",
+    "calendar/2025-06-20.md",
+    "calendar/2025-06-19.md",
+    "calendar/2025-06-18.md",
+    "calendar/2025-06-17.md",
+    "calendar/2025-06-16.md",
+    "2025-06-26.md",
+    "2025-06-23.md",
+    "2025-06-25.md",
+    "2025-06-24.md",
+    "2025-06-20.md",
+    "2025-06-19.md",
+    "2025-06-18.md",
+    "README.md",
+    "2025-06-17.md",
+    "2025-06-16.md",
     "2025-06-12.md",
     "2025-06-13.md",
     "2025-06-11.md",
     "2025-06-10.md",
     "2025-06-09.md",
-    "2025-06-05.md",
-    "calendar/2025-06-05.md",
-    "calendar/2025-06-04.md",
-    "calendar/2025-06-03.md",
-    "calendar/2025-05-30.md",
-    "calendar/2025-05-29.md",
-    "calendar/2025-05-28.md",
-    "calendar/2025-05-27.md",
-    "calendar/2025-05-26.md",
-    "2025-06-04.md",
-    "2025-06-03.md",
-    "2025-05-30.md",
-    "2025-05-29.md",
-    "2025-05-28.md",
-    "2025-05-27.md",
-    "calendar/2025-05-13.md",
-    "2025-05-26.md",
-    "calendar/2025-05-14.md",
-    "calendar/2025-05-15.md",
-    "calendar/2025-05-16.md",
-    "calendar/2025-05-19.md",
     "Untitled.canvas",
     "Pasted image 20250306104824.png",
     "Pasted image 20250306103607.png",
