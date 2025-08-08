@@ -69,12 +69,66 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "理论 00｜当我们学习计算机理论时我们在学什么｜转码友好.md",
+                "file": "高性能 01｜如何描述性能｜系统设计｜性能优化.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "理论 00｜当我们学习计算机理论时我们在学什么｜转码友好"
+              "title": "高性能 01｜如何描述性能｜系统设计｜性能优化"
+            }
+          },
+          {
+            "id": "dc9bb4924add8673",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "微服务 03｜RPC 框架都做了哪些事？.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "微服务 03｜RPC 框架都做了哪些事？"
+            }
+          },
+          {
+            "id": "4d90849bb3528acb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2025-08-07.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-08-07"
+            }
+          },
+          {
+            "id": "2569b00c1e7b30ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sweet.micro/微服务 06｜如何保障服务的稳定性｜熔断｜限流｜降级｜面试经典.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "微服务 06｜如何保障服务的稳定性｜熔断｜限流｜降级｜面试经典"
+            }
+          },
+          {
+            "id": "f04a78f169c092e1",
+            "type": "leaf",
+            "state": {
+              "type": "mindmapview",
+              "state": {
+                "file": "markmind.basic.sample.md"
+              },
+              "icon": "blocks",
+              "title": "markmind.basic.sample"
             }
           },
           {
@@ -106,7 +160,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 8
       },
       {
         "id": "98a2ed9380092978",
@@ -132,16 +186,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "微服务 01｜如何描述一个完整的 RPC 请求流程｜面试经典.md",
+                "file": "interview.tech/2025-08-04.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "微服务 01｜如何描述一个完整的 RPC 请求流程｜面试经典"
+              "title": "2025-08-04"
+            }
+          },
+          {
+            "id": "e9b00914535b9524",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2025-08-06.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-08-06"
+            }
+          },
+          {
+            "id": "1a2553c64d77c5b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sweet.micro/微服务 04｜服务注册与服务发现｜CAP｜心跳｜kitex 源码｜面试经典.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "微服务 04｜服务注册与服务发现｜CAP｜心跳｜kitex 源码｜面试经典"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -283,19 +365,30 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a2baa2cb6898f46f",
+  "active": "f04a78f169c092e1",
   "lastOpenFiles": [
-    "微服务 01｜如何描述一个完整的 RPC 请求流程｜面试经典.md",
-    "理论 00｜当我们学习计算机理论时我们在学什么｜转码友好.md",
-    "Pasted image 20250801150028.png",
-    "2025-08-01.md",
+    "sweet.micro/Pasted image 20250801150028.png",
+    "sweet.micro/微服务 01｜如何描述一个完整的 RPC 请求流程｜面试经典.md",
+    "interview.tech/Pasted image 20250729120722.png",
+    "sweet.micro",
+    "2025-08-08.md",
+    "2025-08-07.md",
+    "2025-08-06.md",
+    "Untitled.md",
+    "sweet.micro/微服务 06｜如何保障服务的稳定性｜熔断｜限流｜降级｜面试经典.md",
+    "sweet.micro/微服务 04｜服务注册与服务发现｜CAP｜心跳｜kitex 源码｜面试经典.md",
+    "sweet.micro/微服务 05｜负载均衡算法有哪些｜轮询｜一致性哈希｜kitex 源码｜面试经典.md",
+    "sweet.micro/微服务 03｜RPC 框架都做了哪些事？.md",
+    "sweet.micro/微服务 02｜RPC 和 HTTP 有哪些区别｜面试经典.md",
     "高性能 01｜如何描述性能｜系统设计｜性能优化.md",
+    "interview.tech/2025-08-04.md",
+    "interview.tech/2025-07-28.md",
+    "interview.tech/2025-08-01.md",
+    "sweet.micro/理论 00｜当我们学习计算机理论时我们在学什么｜转码友好.md",
     "interview.tech/2025-07-17.md",
-    "2025-07-31.md",
-    "2025-07-30.md",
-    "2025-07-29.md",
-    "Pasted image 20250729120722.png",
-    "2025-07-28.md",
+    "interview.tech/2025-07-31.md",
+    "interview.tech/2025-07-30.md",
+    "interview.tech/2025-07-29.md",
     "calendar/2025-07-21.md",
     "calendar/2025-07-17.md",
     "interview.tech",
@@ -303,18 +396,8 @@
     "calendar/2025-07-23.md",
     "markmind.basic.sample.md",
     "calendar/2025-07-14.md",
-    "knowledge system/【知识管理】万字长文实践演示个人知识管理全流程.md",
-    "knowledge system/知识体系.md",
-    "knowledge system/【时间管理】GTD可能是最适合普通人时间管理方法.md",
-    "calendar/2025-07-16.md",
-    "knowledge system/终身学习者必看！这个4步高效阅读法，告别碎片化阅读的低效困境.md",
-    "calendar/2025-07-15.md",
     "Untitled.canvas",
     "knowledge system/GTD.理清工作流程图.png",
-    "knowledge system/【知识分享】成为社交高手，告别尴尬瞬间的方法：掌握场景化知识.md",
-    "calendar/2025-07-07.md",
-    "knowledge system/【干货分享】告别文件混乱：超高效管理和定位跨平台文件，全面优化你的文件管理流程.md",
-    "calendar/2025-07-11.md",
     "knowledge system",
     "Pasted image 20250306104824.png",
     "Pasted image 20250306103607.png",
